@@ -3,6 +3,8 @@
 Amael qui fait des bruits
 
 
-## forme de l'app 
+## langage
 
-oui
+Android studio avec java
+
+(je vais peut etre surement give up avec ce langage)
